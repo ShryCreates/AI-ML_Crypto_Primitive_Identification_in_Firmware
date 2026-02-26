@@ -127,6 +127,11 @@ Embedded system security audits
 
 Academic & SIH hackathon research
 
+📸 Preview
+<img width="1460" height="692" alt="Screenshot 2026-02-26 192005" src="https://github.com/user-attachments/assets/41ad4a6a-0b49-4b04-bfd5-2343592fb77e" />
+<img width="1463" height="698" alt="Screenshot 2026-02-26 191833" src="https://github.com/user-attachments/assets/17b84f49-12ea-48bc-b933-4218e42705e8" />
+<img width="1465" height="697" alt="Screenshot 2026-02-26 192027" src="https://github.com/user-attachments/assets/2565828a-c8a8-4b7e-bec0-f7692ed31363" />
+
 👩‍💻 Author
 
 Shreya Kumari (ShryCreates)
